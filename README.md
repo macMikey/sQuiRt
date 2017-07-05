@@ -8,8 +8,8 @@ There are no restrictions whatsoever.
 
 
 # Files/Folders In Repo
-README.md - this file
-sQuiRt.livecodescript - library/script-only-stack
-sQuiRt.htm - start page for html documentation
-sQuiRt_files (folder) - resources for the htm file
-sQuiRt_Free (folder) - binary versions of the library and test stacks
+* README.md - this file
+* sQuiRt.livecodescript - library/script-only-stack
+* sQuiRt.htm - start page for html documentation
+* sQuiRt_files (folder) - resources for the htm file
+* sQuiRt_Free (folder) - binary versions of the library and test stacks
